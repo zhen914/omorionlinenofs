@@ -1,0 +1,20 @@
+2025/07/18 02:40:46 [emerg] 1320#12864: CreateFile() "D:\omori\www/conf/mime.types" failed (2: The system cannot find the file specified) in D:\omori\www/conf/nginx.conf:9
+2025/07/18 02:40:46 [emerg] 6332#5300: CreateFile() "D:\omori\www/conf/mime.types" failed (2: The system cannot find the file specified) in D:\omori\www/conf/nginx.conf:9
+2025/07/18 02:40:46 [emerg] 12684#836: CreateFile() "D:\omori\www/conf/mime.types" failed (2: The system cannot find the file specified) in D:\omori\www/conf/nginx.conf:9
+2025/07/18 02:40:47 [emerg] 13016#8408: CreateFile() "D:\omori\www/conf/mime.types" failed (2: The system cannot find the file specified) in D:\omori\www/conf/nginx.conf:9
+2025/07/18 02:40:47 [emerg] 13184#4612: CreateFile() "D:\omori\www/conf/mime.types" failed (2: The system cannot find the file specified) in D:\omori\www/conf/nginx.conf:9
+2025/07/18 02:40:47 [emerg] 13044#2708: CreateFile() "D:\omori\www/conf/mime.types" failed (2: The system cannot find the file specified) in D:\omori\www/conf/nginx.conf:9
+2025/07/18 02:40:55 [notice] 13664#6904: signal process started
+2025/07/18 02:40:55 [error] 13664#6904: CreateFile() "D:\omori\www/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2025/07/18 02:40:55 [emerg] 14152#188: CreateDirectory() "D:\omori\www/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2025/07/18 02:40:55 [emerg] 14020#7292: CreateDirectory() "D:\omori\www/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2025/07/18 02:40:56 [notice] 6956#11188: signal process started
+2025/07/18 02:40:56 [error] 6956#11188: invalid PID number "" in "D:\omori\www/logs/nginx.pid"
+2025/07/18 02:40:56 [emerg] 12828#3360: CreateDirectory() "D:\omori\www/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2025/07/18 02:40:56 [emerg] 12532#6336: CreateDirectory() "D:\omori\www/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2025/07/18 02:40:59 [notice] 3444#12012: signal process started
+2025/07/18 02:40:59 [error] 3444#12012: invalid PID number "" in "D:\omori\www/logs/nginx.pid"
+2025/07/18 02:40:59 [emerg] 4652#12612: CreateDirectory() "D:\omori\www/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2025/07/18 02:40:59 [emerg] 12824#8156: CreateDirectory() "D:\omori\www/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2025/07/18 02:42:39 [notice] 12016#5032: signal process started
+2025/07/18 02:42:39 [error] 12016#5032: invalid PID number "" in "D:\omori\www/logs/nginx.pid"
