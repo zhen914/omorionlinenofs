@@ -154,7 +154,7 @@ var $plugins = [{
     "status": true,
     "description": "v1.01 Load custom fonts from the /fonts/ folder. This will\nallow you to use custom fonts without installing them.",
     "parameters": {
-      "Font Filenames": "OMORI_GAME.ttf, OMORI_GAME2.ttf, NotoSans_Regular.ttf",
+      "Font Filenames": "OMORI_GAME.woff2, OMORI_GAME2.ttf, NotoSans_Regular.ttf",
       "Font Families": "OMORI_GAME, OMORI_GAME2, NotoSans_Regular"
     }
   },
